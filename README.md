@@ -1,3 +1,3 @@
 # YesStarterKit.io
-Machine Vision Inspector61x
+Machine Vision: Inspector61x
 V2D611P-MMSBI4
